@@ -1,0 +1,14 @@
+{
+  "name": "homework-4",
+  "version": "1.0.0",
+  "description": "TypeScript Inheritance",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "author": "homework",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.8.4"
+  }
+}
