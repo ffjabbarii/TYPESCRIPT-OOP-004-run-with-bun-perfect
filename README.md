@@ -1,4 +1,7 @@
 FRED JABBARI 001
+
+...
+
 ╭─fjabbari@fjabbari-4611-mac in ~/REPO_TYPESCRIPT_OO/TYPESCRIPT-OOP-004-run-with-bun-perfect on master ✔ (origin/master)
 
 ╰$ ls
